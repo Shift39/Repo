@@ -1,0 +1,22 @@
+.primeira{
+    background-color: rgb(200,162,200); 
+    height: 250px; 
+    width: 100%; 
+    display: flex;
+}
+.segunda{
+    background-color: black; 
+    display: flex;
+    justify-content: center;
+}
+.terceira{
+    background-color: #FFCDDB; 
+    height: 100%; 
+    width: 250px; 
+    border: solid red 20px;
+}
+.quarta{
+    background-color: #7fffd4; 
+    height: 88%;
+     width: 30%;
+}

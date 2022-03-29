@@ -1,0 +1,13 @@
+.primeira{
+    background-color: red; 
+    height: 50px;
+     width: 50px; 
+     border: solid green 5px; 
+     margin-top: 100px;
+    }
+.segunda{
+    viewport-fit: 50%; background-color: black; 
+    border: 10px dashed; 
+    margin-top: 100px;
+    margin-left: 100px;
+}
