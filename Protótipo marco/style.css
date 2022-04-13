@@ -1,6 +1,6 @@
 body{
     margin: 0%; 
-    background-color: rgba(0, 0, 0, 0.795);
+    background-color: black;
     font-family: nonespace;
 }
 
@@ -50,12 +50,10 @@ body{
 
 
 .banner{
-    background-image: url('imgs/zyro-image.png');
-    height: 1200px;
-    color: white;
+    background-image: url('imgs/bg-jelly-fish-para-home.png');
+    height: 650px;
+    color: #ffff;
     display: flex;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 .banner .container p span{
    font-weight: 1000;
@@ -67,7 +65,7 @@ body{
     
 }
 .social{
-    background-color: white;
+    background-color: beige;
     display: flex;
 }
 .social .container .boxes .box img{
@@ -88,7 +86,7 @@ body{
 .footer {
     background-color:  bisque;
     height: 150px;
-    color: rgba(0, 0, 0, 0.712);
+    color: black;
     display: flex;
     font-size: 20px;
 }
@@ -103,8 +101,8 @@ a {
     background-color: rgba(255, 255, 255, 0.1);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
-    height: 400px;
-    width: 400px;
+    height: 500px;
+    width: 500px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -114,12 +112,12 @@ a {
 }
 .card h1{
     font-size: 30px;
-    color: rgba(0, 0, 0, 0.788);
+    color: black;
     
 }
 .card h4{
     font-size: 16px;
-    color: rgba(0, 0, 0, 0.856);
+    color: black;
 }
 .banner .container p{
     width: 15%;
@@ -132,11 +130,13 @@ a {
 }
 .card button{
     background-color: blueviolet;
-    margin-top: 25px;
-    font-size: 25px;
-    height: 50px;
-    width: 90px;
-    color: #ffff;
+    margin-top: 50px;
+    font-size: 50px;
+    height: 100px;
+    width: 150px;
+    color: #
+    
+    ffff;
     font: 700 20px Georgia;
     border-radius:  5%;
     cursor: pointer;
